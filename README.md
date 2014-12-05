@@ -3,6 +3,12 @@ A customizable lightbox plugin for jQuery.  See the [project page](http://jacklm
 
 ## Changelog:
 
+### Version 1.5.15 - 2014/12/05
+
+* If there is only one image, user can close colorbox dialog by click on it.
+* Removing jquery from dependecies.
+* Extending "ignore" section.
+
 ### Version 1.5.14 - 2014/9/9
 
 * When opening, append Colorbox to the DOM if it was detached for whatever reason.  Fixes #645.
